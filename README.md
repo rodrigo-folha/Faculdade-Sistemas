@@ -1,4 +1,4 @@
-# Trabalho e Atividades da Faculdade de SI
+# Trabalhos e Atividades da Faculdade de SI
 > Status: Atualizando
 
 ## Por enquanto só atividades do primeiro período
